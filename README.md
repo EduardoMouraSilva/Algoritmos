@@ -1,6 +1,6 @@
 # Algoritmos 
 
-## 📖 **Sobre**
+## 📖 Sobre
 É um repositório com algoritmos, para quem está iniciando.
 
 ###  Como funciona
