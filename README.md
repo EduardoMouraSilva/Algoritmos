@@ -4,11 +4,11 @@
 ##  Como funciona
 Primeiramente existe um arquivo do tipo ".md" com a ideia do algoritmo. Depois um arquivo do tipo ".py" com a ideia, algoritmo, em python.
 
-## 📖 As partes
-### [Variáveis](Variáveis)
+# 📖 As partes
+## [Variáveis](Variáveis)
 ### Condições
-### Repetições
+## Repetições
 ### Estruturas de Dados
-### Funções
+## Funções
 ### Arquivos
-### POO
+## POO
