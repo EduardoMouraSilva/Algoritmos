@@ -12,8 +12,8 @@ Exemplo:
 ~~~
 
 ## 🏮 As partes
-### [Variáveis](Variáveis) 4
-### [Condições](Condições) 1
+### [Variáveis](1 Variáveis) 4
+### [Condições](3 Condições) 1
 ### Repetições
 ### Estruturas de Dados
 ### Funções
